@@ -5,5 +5,6 @@ O dataset apresenta informações sobre o consumo de energia elétrica em resid�
 * Plotar variáveis
 * Plotar relação entre potência ativa e as demais variáveis
 * Plotar série temporal com média diária de cada variável <br>
+<br>
 Dataset: https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption
 
